@@ -1,1 +1,0 @@
-# Trodat-Neuro-Analyzer
